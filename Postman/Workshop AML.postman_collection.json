@@ -23,13 +23,13 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\"columns\":[0,1,2,3,4,5,6,7,8,9],\n\"index\":[0],\n\"data\":[[0.00432,18.0,1.1,0.12,0.422,6.75,65.2,4.0900,1.0,296.0,26.3,496.90,12]]\n}\n\n"
+					"raw": "{\n\"columns\":[0,1,2,3,4,5,6,7,8,9],\n\"index\":[0],\n\"data\":[[0.00432, 16.0, 1.1, 0.12, 0.422, 6.75, 65.2, 4.09, 1.0, 296.0, 16.3, 496.9, 6.8]]\n}\n\n"
 				},
 				"url": {
-					"raw": "http://3bb89948-3ecc-410b-ba26-88393c260f3c.westeurope.azurecontainer.io/score",
+					"raw": "http://4ae11933-0a64-4740-bc6f-1f276e78343f.westeurope.azurecontainer.io/score",
 					"protocol": "http",
 					"host": [
-						"3bb89948-3ecc-410b-ba26-88393c260f3c",
+						"4ae11933-0a64-4740-bc6f-1f276e78343f",
 						"westeurope",
 						"azurecontainer",
 						"io"
