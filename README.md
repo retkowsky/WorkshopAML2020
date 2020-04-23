@@ -1,6 +1,9 @@
 # WorkshopAML2020
 
 Cloud workshop Azure ML 2020
+
+<img src="https://github.com/retkowsky/images/blob/master/AzureMLservicebanniere.png?raw=true">
+
 Demo materials for Azure ML.
 - Introduction
 - Experiments
