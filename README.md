@@ -17,7 +17,7 @@ Demo materials for Azure ML.
 - Hyperdrive
 - ACI/AKS deployment
 
-Worksop Videos : https://www.youtube.com/playlist?list=PLy4MOYaxz3vMnh62b11EEDSPgfiIsrxZ8
+Workshop Videos : https://www.youtube.com/playlist?list=PLy4MOYaxz3vMnh62b11EEDSPgfiIsrxZ8
 
 Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
 
